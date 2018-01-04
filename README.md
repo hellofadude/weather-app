@@ -38,7 +38,7 @@ AWS CodeStar user guide.
 
 3. Start the development server:
 
-        $ node server.js
+        $ npm run start
 
 4. Open http://127.0.0.1:3000/ in a web browser to view your service.
 
